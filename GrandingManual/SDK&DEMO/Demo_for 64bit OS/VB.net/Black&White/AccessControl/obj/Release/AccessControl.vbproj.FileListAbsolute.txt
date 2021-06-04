@@ -1,0 +1,2 @@
+D:\GTH Softwares\GrandingManual\SDK&DEMO\Demo_for 64bit OS\VB.net\Black&White\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\GTH Softwares\GrandingManual\SDK&DEMO\Demo_for 64bit OS\VB.net\Black&White\AccessControl\obj\Release\AccessControl.vbproj.ResolveComReference.cache

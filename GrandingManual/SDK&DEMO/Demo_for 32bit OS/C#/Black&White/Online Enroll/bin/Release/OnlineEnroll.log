@@ -1,0 +1,23 @@
+# eXeScope Log of "E:\Software\New SDK 6.0.3.3\SDK 6.0.3.4\Demo\C#\Black&White\Online Enroll\bin\Release\OnlineEnroll.exe", 2010-09-19 13:12:51
+
+Resource,Version,1
+FileVersion 1,0,3637,26770
+ProductVersion 1,0,3637,26770
+FileFlags 0
+FileOS 4
+FileType 1
+FileSubType 0
+VarFileInfo 
+	Translation 00 00 B0 04 
+StringFileInfo 
+	000004b0 
+		CompanyName,Granding
+		FileDescription,FAE
+		FileVersion,1.0.3637.26770
+		InternalName,OnlineEnroll.exe
+		LegalCopyright,"Copyright (C) Granding 2009"
+		OriginalFilename,OnlineEnroll.exe
+		ProductName,OnlineEnroll
+		ProductVersion,1.0.3637.26770
+		"Assembly Version",1.0.3637.26770
+EndResource

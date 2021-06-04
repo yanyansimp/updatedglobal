@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Access">
+</Property><Property Name="Solution File" Value="D:\GTH Softwares\GrandingManual\SDK&amp;DEMO\Demo_for 64bit OS\VB.net\Black&amp;White\AccessControl\Access.sln">
+</Property><Property Name="Date" Value="Thursday, August 16, 2018">
+</Property><Property Name="Time" Value="22:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="AccessControl" Source="AccessControl.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccessControl" Source="AccessControl.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Access.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Access.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccessControl" Source="AccessControl.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

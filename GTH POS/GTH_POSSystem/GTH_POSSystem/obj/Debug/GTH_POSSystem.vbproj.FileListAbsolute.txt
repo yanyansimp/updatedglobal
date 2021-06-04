@@ -1,0 +1,41 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\bin\Debug\GTH_POSSystem.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\bin\Debug\GTH_POSSystem.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\bin\Debug\GTH_POSSystem.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmMain.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GTH_POSSystem\obj\Debug\GTH_POSSystem.pdb
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\ResolveAssemblyReference.cache
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmMain.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmSupplierRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.Resources.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.vbproj.GenerateResource.Cache
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmUnitType.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmCategory.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmPriceDiscountAdjustment.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmProducNameEntry.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmProductRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmEmployee.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmProductReceiving.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmSalesOrderTaking.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmPurchaseOrder.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmDenomination.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Debug\Global Technology Hub - POS System.exe
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Debug\Global Technology Hub - POS System.pdb
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Debug\Global Technology Hub - POS System.xml
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\Global Technology Hub - POS System.exe
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\Global Technology Hub - POS System.xml
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\Global Technology Hub - POS System.pdb
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmReport.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmLogin.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmSalesMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmReceivedStockMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmProductReleasing.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmCustomerRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmPORMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.Dialog1.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmProducInvAdjustment.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Debug\GTH_POSSystem.frmDeliveryMonitoring.resources

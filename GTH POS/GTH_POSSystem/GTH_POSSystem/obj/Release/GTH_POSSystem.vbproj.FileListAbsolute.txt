@@ -1,0 +1,31 @@
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\ResolveAssemblyReference.cache
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmCategory.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmEmployee.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmMain.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmPriceDiscountAdjustment.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmProducNameEntry.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmProductReceiving.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmProductRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmSupplierRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmUnitType.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.Resources.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.vbproj.GenerateResource.Cache
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Release\Global Technology Hub - POS System.exe
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Release\Global Technology Hub - POS System.pdb
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\bin\Release\Global Technology Hub - POS System.xml
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmDenomination.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmPurchaseOrder.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmSalesOrderTaking.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\Global Technology Hub - POS System.exe
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\Global Technology Hub - POS System.xml
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\Global Technology Hub - POS System.pdb
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.Dialog1.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmCustomerRegistration.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmDeliveryMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmPORMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmProducInvAdjustment.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmProductReleasing.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmReceivedStockMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmReport.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmSalesMonitoring.resources
+H:\GTH Softwares\GTH POS\GTH_POSSystem\GTH_POSSystem\obj\Release\GTH_POSSystem.frmLogin.resources

@@ -1,0 +1,3 @@
+SELECT DISTINCT tbl_trns.[Rep Dat], tbl_trns.Year, tbl_trns.[Date Filed], tbl_trns.[Patient's Name], tbl_trns.[PHIC MEM], tbl_trns.[Rel to Mem], tbl_trns.Age, tbl_trns.[PHIC No], tbl_trns.[Type of Mem]
+FROM tbl_trns where tbl_trns.[PHIC No] in (SELECT distinct tbl_trns.[PHIC No]
+FROM tbl_trns;)

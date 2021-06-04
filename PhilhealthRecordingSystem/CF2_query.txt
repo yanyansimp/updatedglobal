@@ -1,0 +1,4 @@
+SELECT     ID, [PHIC No], [Date Filed], [Date Admit], [Date Dis], [Case], Diagnoses, [Final Diag], ICD, RVU, [Attending Physician], [OB Surgeon], [VIsiting Physician], Anes, Remarks,
+                       [SOA Number], [Date Submitted], [Date Transmitted], [RTH Def], [RTH Received], [RTH Transmitted], Refund
+FROM         tbl_trns
+ORDER BY ID

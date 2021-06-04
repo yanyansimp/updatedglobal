@@ -1,0 +1,16 @@
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\PhilhealthRecordingSystem.exe
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\PhilhealthRecordingSystem.pdb
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\PhilhealthRecordingSystem.xml
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\ResolveAssemblyReference.cache
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.frmDetailsEntryForm.resources
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.frmMain.resources
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.Resources.resources
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.vbproj.GenerateResource.Cache
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.exe
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.xml
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\obj\Debug\PhilhealthRecordingSystem.pdb
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\Microsoft.Office.Interop.Word.dll
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\office.dll
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\Microsoft.Office.Interop.Word.xml
+H:\GTH Softwares\PhilhealthRecordingSystem\PhilhealthRecordingSystem\bin\Debug\office.xml

@@ -1,0 +1,2 @@
+SELECT     [Date Filed], [PHIC No], Room, Medicines, [Prof Fee], [X-Ray], [Lab Charges], Others, [OR], Refund, [Prof Fees], [Anes Fees]
+FROM         tbl_trns

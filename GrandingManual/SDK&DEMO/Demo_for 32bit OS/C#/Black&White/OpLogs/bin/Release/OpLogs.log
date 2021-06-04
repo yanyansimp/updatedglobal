@@ -1,0 +1,23 @@
+# eXeScope Log of "E:\Software\New SDK 6.0.3.3\SDK 6.0.3.4\Demo\C#\Black&White\OpLogs\bin\Release\OpLogs.exe", 2010-09-19 13:13:47
+
+Resource,Version,1
+FileVersion 1,0,3637,26783
+ProductVersion 1,0,3637,26783
+FileFlags 0
+FileOS 4
+FileType 1
+FileSubType 0
+VarFileInfo 
+	Translation 00 00 B0 04 
+StringFileInfo 
+	000004b0 
+		CompanyName,Granding
+		FileDescription,FAE
+		FileVersion,1.0.3637.26783
+		InternalName,OpLogs.exe
+		LegalCopyright,"Copyright (C) Granding 2009"
+		OriginalFilename,OpLogs.exe
+		ProductName,OpLogs
+		ProductVersion,1.0.3637.26783
+		"Assembly Version",1.0.3637.26783
+EndResource

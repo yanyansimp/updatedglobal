@@ -1,0 +1,23 @@
+# eXeScope Log of "E:\Software\New SDK 6.0.3.3\SDK 6.0.3.4\Demo\C#\Black&White\ConsoleMThreads\bin\Release\ConsoleMThreads.exe", 2010-09-19 13:11:45
+
+Resource,Version,1
+FileVersion 1,0,0,0
+ProductVersion 1,0,0,0
+FileFlags 0
+FileOS 4
+FileType 1
+FileSubType 0
+VarFileInfo 
+	Translation 00 00 B0 04 
+StringFileInfo 
+	000004b0 
+		CompanyName,Granding
+		FileDescription,ConsoleMThreads
+		FileVersion,1.0.0.0
+		InternalName,ConsoleMThreads.exe
+		LegalCopyright,"Copyriht (C) Granding 2009"
+		OriginalFilename,ConsoleMThreads.exe
+		ProductName,ConsoleMThreads
+		ProductVersion,1.0.0.0
+		"Assembly Version",1.0.0.0
+EndResource

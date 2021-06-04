@@ -1,0 +1,22 @@
+32 bit OS SDK register Steps£º
+
+1.Copy all the file into C:\WINDOWS\system32
+
+2.Input the command "regsvr32 C:\WINDOWS\system32\zkemkeeper.dll" into "open/run",and press Enter. check it registered whether successful.
+
+
+64 bit OS register 32 bit SDK Steps£º
+Copy all these dll. into c:\windows\sysWOW64 folder,
+then use administrator account to run cmd.exe
+enter the following command to reg the control.
+cd %windir%\sysWOW64      [press enter]
+regsvr32 zkemkeeper.dll   [press enter]
+
+64 bit OS register 64 bit SDK Steps£º
+Copy all these dll. into c:\windows\system32 folder,
+then use administrator account to run cmd.exe
+enter the following command to reg the control.
+cd %windir%\system32      [press enter]
+regsvr32 zkemkeeper.dll   [press enter]
+
+
